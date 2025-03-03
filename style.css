@@ -1,0 +1,8 @@
+body{
+    background-color: yellowgreen;
+}
+.display{
+    height: 30px;
+    width: 300px;
+    background-color: rgb(212, 255, 0);
+}
