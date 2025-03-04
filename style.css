@@ -3,16 +3,36 @@
     margin-top: 100px;
 }
 body{
-    background-color: yellowgreen;
+    background-color: rgba(58, 61, 59, 0.943);
 }
 .operator{
  background-color: rgb(240, 80, 11);
- padding: 10px 10px 10px 10px;
+ padding: 25px 25px 25px 25px;
  border: none;
  margin-top: 7px;
+ border-radius: 5px;
+ color: white;
+font-size: 20px;
 }
 button {
     background-color: rgb(42, 162, 213);
-    padding: 10px 10px 10px 10px;
+    padding: 25px 25px 25px 25px;
     border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+input{
+    border-radius: 5px;
+    padding: 15px;
+    border: 1px solid rgb(249, 240, 240);
+    background-color: rgb(124, 174, 8);
+    text-align: right;
+    font-size: 20px;
+    color: white;
+}
+p{
+    color: rgb(5, 179, 254);
+    text-decoration: underline;
+    font-size: 30px;
 }
