@@ -12,7 +12,8 @@ body{
  margin-top: 7px;
  border-radius: 5px;
  color: white;
-font-size: 20px;
+ font-size: 20px;
+ margin-left: 6px;
 }
 button {
     background-color: rgb(42, 162, 213);
@@ -21,6 +22,7 @@ button {
     border-radius: 5px;
     color: white;
     font-size: 20px;
+    margin-left: 6px;
 }
 input{
     border-radius: 5px;
@@ -35,4 +37,14 @@ p{
     color: rgb(5, 179, 254);
     text-decoration: underline;
     font-size: 30px;
+}
+.percentile{
+    background-color: rgb(240, 80, 11);
+    padding: 25px 20px 25px 20px;
+    border: none;
+    margin-top: 7px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    margin-left: 6px;
 }
