@@ -28,7 +28,7 @@ input{
     border-radius: 5px;
     padding: 15px;
     border: 1px solid rgb(249, 240, 240);
-    background-color: rgb(124, 174, 8);
+    background-color:  rgb(200, 212, 27);
     text-align: right;
     font-size: 20px;
     color: white;
@@ -57,4 +57,12 @@ p{
     color: white;
     font-size: 20px;
     margin-left: 6px; 
+}
+@media screen and (max-width: 768px) {
+    .container {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        width: 90%; /* Adjust container width for smaller screens */
+    } 
 }
