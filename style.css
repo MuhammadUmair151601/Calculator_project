@@ -48,3 +48,13 @@ p{
     font-size: 20px;
     margin-left: 6px;
 }
+.equal{
+    background-color: rgb(200, 212, 27);
+    padding: 25px 25px 25px 25px;
+    border: none;
+    margin-top: 7px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    margin-left: 6px; 
+}
